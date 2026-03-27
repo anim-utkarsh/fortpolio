@@ -6,22 +6,15 @@ This document is the "sauce of tooth" for the project. It tracks ideas, rejected
 An interactive, narrative-driven portfolio that chronicles the journey of a creator. It follows the evolution from basic beginner tools (PowerPoint, Windows Video Editor) to professional-grade creative software (After Effects, Photoshop, Figma, Lottie, Rive). It's a "story of growth" told through the tools themselves.
 
 ## ✅ Accepted Ideas
-- **Interactive Tool Timeline**: A scroll-based or click-based journey showing the transition between tools.
-- **"The Evolution of the Creative Space"**: The UI changes style as you progress (e.g., from a Windows XP-style PowerPoint feel to a sleek, modern, Lottie-animated Figma/Rive vibe).
-- **Tool List**:
-    - PowerPoint (where it all began)
-    - Windows Video Editor
-    - Photoshop
-    - After Effects
-    - Figma
-    - Lottie
-    - Rive (present day expertise)
-
-## ❌ Rejected Ideas
-_Ideas we have considered but decided not to use._
+- **"The Dig-Down Zine" (The Synthesis)**:
+    - **Interactive Layer (Fossil Scroll)**: A vertical, reverse-chronological scroll that "digs" through layers of creative history (Surface = Modern Rive/Figma; Bedrock = PowerPoint).
+    - **Visual Metaphor (Leaf Carrier)**: Each section is styled as a "loose leaf" or "blueprint" embedded in the earth, honoring the etymology of *portafoglio*.
+    - **Physical Link (Printable Zine)**: Each layer is formatted to be printable, with a "Bind the Zine" feature at the journey's end.
+- **"The Evolution of the Creative Space"**: UI/cursor/audio styles shift based on the current era/layer being viewed.
 
 ## 💡 Pending Ideas (Layout & Form)
-- **"The Fossil Scroll" (Reverse Chronological)**: Inspired by *Plants vs Zombies*. As the user scrolls down, they go "deeper" into the earth's layers. The "surface" is the present (Rive, Figma), and deeper layers reveal "fossils" of the past (PowerPoint, Windows Video Editor). 
-- **"The Leaf Carrier" (Etymological)**: Embracing the root meaning of *portafoglio* ("leaf carrier"). The UI is a digital case or folder containing "loose sheets" (case studies). Instead of a standard vertical scroll, it could be a "deck" of cards that you shuffle or flip through.
-    - _User Note: Might be "too visually complex," but we can simplify this as a "digital stack."_
-- **"The Printable Zine"**: The portfolio layout is designed such that the case studies can be exported/printed as a physical zine. This links digital creation to physical artifacts.
+_No pending ideas at the moment._
+
+## ❌ Rejected Ideas
+- **Standalone Conventional Scroll**: Rejected in favor of the narrative-driven "Dig-Down" approach.
+- **3D Portfolio Case**: Rejected as "too visually complex," though the "leaf" concept remains as a simplified version.
