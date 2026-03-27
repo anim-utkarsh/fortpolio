@@ -20,5 +20,8 @@ An interactive, narrative-driven portfolio that chronicles the journey of a crea
 ## ❌ Rejected Ideas
 _Ideas we have considered but decided not to use._
 
-## 💡 Pending Ideas
-_New ideas to be discussed._
+## 💡 Pending Ideas (Layout & Form)
+- **"The Fossil Scroll" (Reverse Chronological)**: Inspired by *Plants vs Zombies*. As the user scrolls down, they go "deeper" into the earth's layers. The "surface" is the present (Rive, Figma), and deeper layers reveal "fossils" of the past (PowerPoint, Windows Video Editor). 
+- **"The Leaf Carrier" (Etymological)**: Embracing the root meaning of *portafoglio* ("leaf carrier"). The UI is a digital case or folder containing "loose sheets" (case studies). Instead of a standard vertical scroll, it could be a "deck" of cards that you shuffle or flip through.
+    - _User Note: Might be "too visually complex," but we can simplify this as a "digital stack."_
+- **"The Printable Zine"**: The portfolio layout is designed such that the case studies can be exported/printed as a physical zine. This links digital creation to physical artifacts.
